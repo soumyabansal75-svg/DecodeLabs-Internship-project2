@@ -22,3 +22,27 @@ A Python-based data classification system designed to process, categorize, and a
 1. **Clone the repository:**
   ```bash
 git clone [https://github.com/soumyabansal75-svg/DecodeLabs-Internship-project2.git](https://github.com/soumyabansal75-svg/DecodeLabs-Internship-project2.git)
+## 📷 Project Execution Demo
+
+<details>
+<summary><b>📐 Click here to expand all 6 execution screenshots</b></summary>
+
+### 1. Initial Dataset & Setup
+![Demo 1](ds_demo1.png)
+
+### 2. Text Sanitization Process
+![Demo 2](ds_demo2.png)
+
+### 3. Applying Classification Logic
+![Demo 3](ds_demo3.png)
+
+### 4. Categorization Output
+![Demo 4](ds_demo4.png)
+
+### 5. Handling Missing Data & Edge Cases
+![Demo 5](ds_demo5.png)
+
+### 6. Final Summary & Execution Report
+![Demo 6](ds_demo6.png)
+
+</details>
